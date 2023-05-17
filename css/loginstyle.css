@@ -1,0 +1,136 @@
+.cont_log_data{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 20px;
+}
+.cont_data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+    border-radius: 50px;
+    background-color: #FFC000;
+    padding: 50px;
+}
+/* username style */
+.cont_input_username{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+}
+.label_username{
+    background-color: rgba(172, 168, 168, 0.932);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+#input_username{
+    display: flex;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+/* address style */
+.cont_input_address{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+}
+.label_address{
+    background-color: rgba(172, 168, 168, 0.932);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+#input_address{
+    display: flex;
+    padding: 5px;
+    border-radius: 20px;
+}
+/* phone style */
+.cont_input_phone{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+}
+.label_phone{
+    background-color: rgba(172, 168, 168, 0.932);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+#input_phone{
+    display: flex;
+    padding: 5px;
+    border-radius: 20px;
+}
+/* email style */
+.cont_input_email{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+}
+.label_email{
+    background-color: rgba(172, 168, 168, 0.932);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+#input_email{
+    display: flex;
+    padding: 5px;
+    border-radius: 20px;
+}
+/* password style */
+.cont_input_password{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 10px; 
+}
+.label_password{
+    background-color: rgba(172, 168, 168, 0.932);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+#input_password{
+    display: flex;
+    padding: 5px;
+    border-radius: 20px;
+}
+/* message style */
+.cont_input_message{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+}
+.label_message{
+    background-color: rgba(172, 168, 168, 0.932);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+#input_message{
+    display: flex;
+    padding: 5px;
+    border-radius: 20px;
+}

@@ -1,0 +1,125 @@
+/*  stats style */
+#estadisticas {
+    background-color: #FFC000;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#usuarios-registrados {
+    font-weight: bold;
+    font-size: 24px;
+}
+/* main style */
+.title_main{
+    margin: 20px;
+}
+.cont_mision_vision{
+    display: flex;
+    flex-direction: column;
+}
+.cont_stats{
+    background-color: #FFC000;
+    margin-bottom:  20px;
+    margin-top: 20px;
+    padding: 20px;
+}
+/* mision style */
+.cont_mision{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.text_mision{
+    display: flex;
+    align-content: flex-start;
+    padding: 20px;
+    background-color: #FFC000;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.cont_mision{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cont_tittle_mision{
+    background-color: #F19C58;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+.cont_text_mision{
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}
+/* vision style */
+.text_vision{
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.cont_vision{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cont_vision_tittle{
+    background-color: #F19C58;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+
+.cont_vision_text{
+    padding: 10px;
+}
+/* alcance style */
+.text_alcance{
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    background-color: #FFC000;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.cont_alcance{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.alcance_tittle{
+    background-color: #F19C58;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+.alcance_text{
+    padding: 10px;
+}
+/* object style */
+.text_objetivo{
+    display: flex;
+    text-align: center;
+    padding: 20px;  
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.cont_objetivo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.objetivo_tittle{
+    background-color: #F19C58;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+.objetivo_text{
+    padding: 10px;
+}

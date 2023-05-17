@@ -1,0 +1,162 @@
+/* tecno style */
+.cont_tecno{
+    display: flex;
+    background-color:   #FFC000;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.cont_tecno_text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cost_tecno{
+    display: flex;
+    justify-content: center;
+    background-color:   rgba(172, 168, 168, 0.932);
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+    order: 1;
+}
+.text_tecno{
+    padding: 5px;
+    margin: 10px;
+}
+
+/* super style */
+.cont_super{
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.cont_super_text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cost_super{
+    display: flex;
+    justify-content: center;
+    background-color:   #FFC000;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+    order: 1;
+}
+.text_super{
+    padding: 5px;
+    margin: 10px;
+}
+
+/* camp style  */
+.cont_camp{
+    display: flex;
+    padding: 20px;
+    background-color:   #FFC000;
+    border-radius: 20px;
+    margin: 10px;
+}
+.cont_camp_text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cost_camp{
+    display: flex;
+    justify-content: center;
+    background-color:   rgba(172, 168, 168, 0.932);
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+    order: 1;
+}
+.text_camp{
+    padding: 5px;
+    margin: 10px;
+}
+/* peatonal style */
+.cont_peatonal{
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.cont_peatonal_text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cost_peatonal{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background-color:   #FFC000;
+    padding: 10px;
+    align-self: center;
+    order: 1;
+}
+.text_peatonal{
+    padding: 5px;
+    margin: 10px;
+}
+
+/* autopista style */
+
+.cont_autopista{
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    background-color:   #FFC000;
+    margin: 10px;
+}
+.cont_autopista_text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cost_autopista{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background-color:   rgba(172, 168, 168, 0.932);
+    padding: 10px;
+    align-self: center;
+    order: 1;
+}
+.text_autopista{
+    padding: 5px;
+    margin: 10px;
+}
+
+/* office style*/
+
+.cont_office{
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.cont_office_text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cost_office{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background-color:   #FFC000;
+    padding: 10px;
+    align-self: center;
+    order: 1;
+}
+
+.text_office{
+    padding: 5px;
+    margin: 10px;
+}

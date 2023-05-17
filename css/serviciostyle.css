@@ -1,0 +1,114 @@
+.title_main{
+    margin: 20px;
+}
+.cont_main{
+    display: flex;
+    flex-direction: column;
+}
+/* planification style */
+.cont_planification{
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    background-color: #FFC000;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.planification_pick{
+    display: flex;
+    width: 500px;
+    height: 334px;
+    display: flex;
+    border-radius: 20px;
+}
+.cont_text_planification{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    justify-content: center;
+    flex-direction: column;
+}
+.title_planification{
+    display: flex;
+    background-color: rgba(172, 168, 168, 0.932);
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+.text_planification{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    flex-direction: column;
+}
+/* contruccion style */
+.cont_contruccion{
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.contruccion_pick{
+    display: flex;
+    width: 500px;
+    height: 334px;
+    display: flex;
+    border-radius: 20px;
+}
+.cont_text_contruccion{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    justify-content: center;
+    flex-direction: column;
+}
+.title_contruccion{
+    display: flex;
+    background-color:  #FFC000;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+.text_construccion{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    flex-direction: column;
+}
+/* dieño style */
+.cont_diseño{
+    display: flex;
+    background-color:  #FFC000;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.diseño_pick{
+    display: flex;
+    width: 500px;
+    height: 334px;
+    display: flex;
+    border-radius: 20px;
+}
+.cont_text_diseño{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    justify-content: center;
+    flex-direction: column;
+}
+.title_diseño{
+    display: flex;
+    background-color: rgba(172, 168, 168, 0.932);
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+}
+.text_diseño{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    flex-direction: column;
+}
